@@ -1,0 +1,8 @@
+R Tuþu => Kýrmýzý Kalem
+G Tuþu => Yeþil Kalem
+B Tuþu => Mavi Kalem
+W Tuþu => Beyaz Kalem
+N Tuþu => Siyah Kalem
+
+SPACE => Tüm Ekraný Siyah Yapar
+ENTER => Tüm Ekraný Beyaz Yapar
